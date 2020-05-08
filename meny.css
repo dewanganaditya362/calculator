@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+}
+
+input{
+    width:100%;
+    height:200px;
+    background:black;
+    color:aqua;
+    font-size: 160px;
+}
+.r1{
+    display: flex;
+   
+    background:lightpink;
+}
+
+.r1 span{
+     border:2px solid black;
+    font-size:100px;
+    width:25%;
+    text-align: center;
+    height:100px;
+}
+
+.r2{
+    display: flex;
+   
+    background:darkgrey;
+}
+
+.r2 span{
+     border:2px solid black;
+    font-size:100px;
+    width:25%;
+    text-align: center;
+    height:100px;
+}
+
+
+.r3{
+    display: flex;
+   
+    background:darkgrey;
+}
+
+.r3 span{
+     border:2px solid black;
+    font-size:100px;
+    width:25%;
+    text-align: center;
+    height:100px;
+}
+
+
+.r4{
+    display: flex;
+   
+    background:darkgrey;
+}
+
+.r4 span{
+     border:2px solid black;
+    font-size:100px;
+    width:25%;
+    text-align: center;
+    height:100px;
+}
+
+
+.green{
+    background: green;
+}
+
+.r5{
+    display: flex;
+   
+    background:white;
+}
+
+.r5 span{
+     border:2px solid black;
+    font-size:100px;
+    width:25%;
+    text-align: center;
+    height:100px;
+}
+
+
+.red{
+    background: red;
+}
+
+span:hover{
+    transition: 1s ease;
+    background: skyblue;
+}
